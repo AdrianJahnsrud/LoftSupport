@@ -1,24 +1,55 @@
 # Personvern – Løft
 
-Sist oppdatert: juni 2026
+Sist oppdatert: 24. juni 2026
 
-Løft er laget for å respektere personvernet ditt. Treningsdataene dine lagres **kun lokalt på enheten din** – vi har ingen server, ingen brukerkonto, og vi selger eller deler aldri personopplysningene dine.
+Løft er laget for å respektere personvernet ditt. Vi har ingen egne servere og
+ingen brukerkonto, og vi selger eller deler aldri personopplysningene dine.
+Treningsdataene dine lagres på enheten din og i din **private iCloud**.
 
 ## Data appen lagrer
-Økter, øvelser, mål, løpeturer og innstillinger lagres lokalt på din iPhone. Dataene forlater ikke enheten med mindre du selv velger å dele dem (eksport eller delingskode). Avinstallerer du appen, slettes dataene.
+
+Økter, øvelser, sett, rekorder, mål, løpeturer, aktiviteter og innstillinger
+lagres på din iPhone og synkroniseres med din private iCloud. Dataene er kun
+tilgjengelige for deg. Avinstallerer du appen, fjernes de lokale dataene fra
+enheten.
+
+## iCloud-synkronisering
+
+Dataene dine synkroniseres automatisk via Apples iCloud (CloudKit), slik at de
+følger deg på tvers av Apple-enhetene dine som er logget inn på samme
+iCloud-konto. Dataene ligger i **din private** iCloud-database – vi har ikke
+tilgang til dem, og de deles ikke med noen tredjepart. Synkroniseringen styres
+av iCloud-innstillingene på enheten din.
+
+## Posisjon
+
+Hvis du sporer en løpetur med GPS, brukes posisjonen din mens sporingen pågår
+til å beregne distanse og tegne ruten. Posisjonsdataene behandles på enheten,
+lagres sammen med løpeturen, og deles aldri med oss eller noen tredjepart.
 
 ## Reklame
-Gratisversjonen viser annonser fra **Google AdMob**. Google kan samle inn enhetsidentifikatorer, IP-adresse og bruksdata for å vise og måle annonser, som selvstendig behandlingsansvarlig:
+
+Gratisversjonen viser annonser fra **Google AdMob**. Google kan samle inn
+enhetsidentifikatorer, IP-adresse og bruksdata for å vise og måle annonser, som
+selvstendig behandlingsansvarlig:
+
 - Googles personvern: https://policies.google.com/privacy
 - Hvordan Google bruker data fra apper: https://policies.google.com/technologies/partner-sites
 
-Ved første åpning spør appen (App Tracking Transparency) om du vil tillate sporing for mer relevant reklame. Du kan endre dette når som helst i iOS: Innstillinger → Personvern og sikkerhet → Sporing. Du kan også fjerne all reklame med et engangskjøp i appen.
-
-## Apple Helse (valgfritt)
-Gir du tillatelse, kan Løft lagre fullførte økter i Apple Helse og lese puls/energi for statistikk. Disse helsedataene styres av Apple Helse, deles ikke med oss eller tredjeparter, og brukes aldri til reklame. Du kan slå av tilgangen i Innstillinger → Personvern og sikkerhet → Helse.
+I EØS/Norge ber appen om samtykke (Google UMP) før det vises personlig tilpassede
+annonser, og spør i tillegg (App Tracking Transparency) om du vil tillate sporing.
+Du kan endre dette når som helst i iOS: Innstillinger → Personvern og sikkerhet →
+Sporing, eller under Profil → Innstillinger → Annonser i appen. Du kan også fjerne
+all reklame med et engangskjøp i appen.
 
 ## Dine rettigheter
-Vi lagrer ingen personopplysninger om deg på våre systemer, så vi har ingenting å utlevere eller slette på dine vegne. Du sletter dine egne data i appen (Profil → Innstillinger → Nullstill all data) eller ved å avinstallere. For data behandlet av Google og Apple, se deres retningslinjer.
+
+Vi lagrer ingen personopplysninger om deg på våre systemer, så vi har ingenting å
+utlevere eller slette på dine vegne. Du sletter dine egne data i appen
+(Profil → Innstillinger → Data → Nullstill all data) – det fjerner også dataene i
+iCloud. Du kan også slå av iCloud-synkronisering i iCloud-innstillingene, eller
+avinstallere appen. For data behandlet av Google og Apple, se deres retningslinjer.
 
 ## Kontakt
+
 Har du spørsmål om personvern? 📧 adrianjahnsrud@live.no
