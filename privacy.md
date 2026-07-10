@@ -1,4 +1,45 @@
-# Personvern – Løft
+# Privacy Policy – Løft
+
+Last updated: July 4, 2026
+
+Løft is built to respect your privacy. We run no servers and require no account, and we never sell or share your personal data. Your training data is stored on your device and in your **private iCloud**.
+
+## Data the app stores
+
+Workouts, exercises, sets, records, goals, runs, activities, photos you add (to goals and activities) and settings are stored on your iPhone and synced with your private iCloud. Only you can access this data. Uninstalling the app removes the local data from your device.
+
+## iCloud sync
+
+Your data syncs automatically via Apple’s iCloud (CloudKit), so it follows you across Apple devices signed in to the same iCloud account. The data lives in **your private** iCloud database – we cannot access it, and it is not shared with any third party. Sync is controlled by the iCloud settings on your device.
+
+## Location
+
+If you track a run with GPS, your location is used while tracking to measure distance and draw the route. Location data is processed on your device, stored with the run, and never shared with us or any third party.
+
+## Camera and photos
+
+The app only uses the camera when you choose to: to read a cardio machine’s display (“Log from machine photo”) or to attach photos to goals and activities. Machine displays are read entirely on-device (Apple Vision) – the photo is never sent anywhere and is not kept. Photos you attach to goals and activities are stored with your training data in your private iCloud.
+
+## Advertising
+
+The free version shows ads from **Google AdMob**. Google may collect device identifiers, IP address and usage data to serve and measure ads, acting as an independent data controller:
+
+- Google’s privacy policy: https://policies.google.com/privacy
+- How Google uses data from apps: https://policies.google.com/technologies/partner-sites
+
+In the EEA/Norway the app asks for consent (Google UMP) before showing personalized ads, and additionally asks (App Tracking Transparency) whether to allow tracking. You can change this anytime in iOS: Settings → Privacy & Security → Tracking, or under Profile → Settings → Ads in the app. You can also remove all ads with a one-time in-app purchase.
+
+## Your rights
+
+We store no personal data about you on our systems, so there is nothing for us to hand over or delete on your behalf. You delete your own data in the app (Profile → Settings → Data → Reset all data) – this also removes the data in iCloud. You can also turn off iCloud sync in your iCloud settings, or uninstall the app. For data processed by Google and Apple, see their policies.
+
+## Contact
+
+Privacy questions? 📧 adrianjahnsrud@live.no
+
+---
+
+# Personvern – Løft (norsk)
 
 Sist oppdatert: 4. juli 2026
 
